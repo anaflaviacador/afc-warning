@@ -1,3 +1,4 @@
+/************ OFFLINE **********/
 /* body, html {
     overflow: hidden !important;
 }
@@ -16,3 +17,6 @@
     justify-content: center !important;
     align-items: center !important;
 } */
+
+/************ ONLINE **********/
+#afc-site-off {display: none !important;}
