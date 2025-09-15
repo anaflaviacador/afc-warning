@@ -1,0 +1,23 @@
+/************ OFFLINE **********/
+/* body,html {
+    overflow: hidden !important;
+}
+
+#afc-site-off {
+    position: fixed !important;
+    top: 0 !important;
+    left: 0 !important;
+    width: 100% !important;
+    height: 100% !important;
+    background: #220d03 !important;
+    color: #e6ba7d !important;
+    z-index: 99999999999 !important;
+    text-align: center !important;
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: center !important;
+    align-items: center !important;
+}*/
+
+/************ ONLINE **********/
+/* #afc-site-off {display: none !important;} */
